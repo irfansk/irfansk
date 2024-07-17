@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="https://media.licdn.com/dms/image/D4D16AQEl9BCvjCi0gA/profile-displaybackgroundimage-shrink_350_1400/0/1720647506711?e=1726704000&v=beta&t=mqP-PmnFI6kB0yPLKZMDoJsN1GP8Ucx81xH_M0h30jA" width="1200" height="200"alt="Heading image" />
+</p>
 <h3 align="center">A Passionate Front-End Web Developer</h3>
 
 <img align="right" src="https://t3.ftcdn.net/jpg/02/80/19/82/360_F_280198257_TgHHOEvO0fshHk1gfokRLMJPQQLUFyRY.jpg" alt="My Coding " width="400" height="400" >
