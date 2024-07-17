@@ -24,7 +24,6 @@
 <a target="_blank" rel="noreferrer"> <img src="https://icon-library.com/images/jquery-icon-png/jquery-icon-png-7.jpg" alt="jquery" width="40" height="40"/> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=irfansk&show_icons=true&locale=en&layout=compact" alt="irfansk" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=irfansk&show_icons=true&locale=en" alt="irfansk" /></p>
 
